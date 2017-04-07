@@ -1,0 +1,146 @@
+﻿body 
+{
+    direction:rtl;
+ 
+}
+#container
+{
+    width:960px;
+    margin:0 auto;
+    background-image:url(../styles/bar___background_art_by_zeedox-d7zcwt3.png);
+    background-repeat:no-repeat;
+    background-size:960px;
+   height:960px;
+
+}
+h1
+{
+padding-right: 455px;
+font-size:24px;
+width: 160px;
+}
+ul
+{
+list-style:none;
+}
+nav ul li
+{
+display:inline-block;
+float:right;
+}
+nav ul li a
+{
+display: block;
+background-color: #2f2f33;
+color: white;
+width: 120px;
+height: 30px;
+padding-top: 10px;
+text-decoration: none;
+text-align: center;
+border:5px groove #808080;
+
+}
+nav ul li a:hover
+{
+background-color: #808080;
+}
+nav
+{
+padding-right: 270px;
+border-top-width: 0px;
+margin-top: 9px;
+}
+av ul li a:active
+{
+background-color: #dcd1d1;
+}
+nav ul li ul
+{
+display: none;
+position: absolute;
+}
+nav ul li:hover ul
+{
+display:block;
+width:120px;
+}
+#profh1
+{
+    width: 105px;
+   
+    padding-top: 0px;
+    border-bottom-width: 5px;
+    margin-bottom: 40px;
+    text-align: center;
+    border:5px groove #808080;
+    background-color: #2f2f33;
+    color: white;
+    padding-right: 13px;
+    padding-left: 12px;
+    margin-left: 400px;
+
+}
+h2
+{
+background-color: #2f2f33;
+color: white;
+width: 120px;
+height: 30px;
+padding-top: 10px;
+text-decoration: none;
+text-align: center;
+border:5px groove #808080;
+margin-left: 400px;
+
+}
+#tobig
+{
+    padding-right: 20px;
+    padding-left: 21px;
+   
+
+}
+p {
+    width: 220x;
+    font-weight: bold;
+    margin-left: 400px;
+
+    color:white;
+    text-align:justify;
+}
+#facebook
+{
+
+    background-image:url(../styles/logo-facebook-30.png);
+    background-size:39px;
+    height:39px;
+    width: 39px;
+    text-align:left;
+    display:inline-block;
+ -webkit-transition: all 0.200ms ease-in-out;
+-moz-transition: all 0.200ms ease-in-out;
+-ms-transition: all 0.200ms ease-in-out;
+-o-transition: all 0.200ms ease-in-out;
+transition: all 0.200ms ease-in-out;
+  
+}
+#facebook:hover
+{
+    background-image:url(../styles/logo-facebook-30.png);
+    background-size:39px;
+    height:39px;
+    width: 39px;
+    text-align:left;
+    display:inline-block;
+ -webkit-transition: all 0.200ms ease-in-out;
+-moz-transition: all 0.200ms ease-in-out;
+-ms-transition: all 0.200ms ease-in-out;
+-o-transition: all 0.200ms ease-in-out;
+transition: all 0.200ms ease-in-out;
+-moz-transform: scale(1.2);
+-webkit-transform: scale(1.2);
+-o-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+}
